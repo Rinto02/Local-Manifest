@@ -28,8 +28,8 @@
                 <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="clang" revision="master" clone-depth="1" />
 
 	<!-- Patches (IMS, BT) -->
-		<remove-project name="crdroidandroid/frameworks_av" />
-		<remove-project name="crdroidandroid/frameworks_native" />
+		<remove-project name="frameworks_av" />
+		<remove-project name="frameworks_native" />
 		
 		<project path="frameworks/av" name="alpha_frameworks_av" remote="denji" revision="alpha-13" clone-depth="1" />
 		<project path="frameworks/native" name="alpha_frameworks_native" remote="denji" revision="alpha-13" clone-depth="1" />
