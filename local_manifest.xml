@@ -12,7 +12,7 @@
                         fetch="https://github.com/Los-FE" />
         
     <!-- Device Trees -->
-       <project path="device/realme/RMX2020" name="A11-device_realme_RMX2020" remote="denji" revision="dot11" clone-depth="1" />
+       <project path="device/realme/RMX2020" name="A11-device_realme_RMX2020" remote="denji" revision="spark-11" clone-depth="1" />
        <project path="vendor/realme/RMX2020" name="A11-vendor_realme_RMX2020" remote="denji" revision="11.0" clone-depth="1" />
        <project path="kernel/realme/RMX2020" name="A11-kernel_realme_RMX2020" remote="denji" revision="Q" clone-depth="1" />
 
